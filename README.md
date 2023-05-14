@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 🔭 I’m a astrophotographer<br>👨‍💻 I’am a Python and Web Developer<br>🤝 We can learn together<br>📖 I’am learning still and i want to learn everything from software<br>💬 Let’s ask each other questions<br>👊 We can do it, together
 
 
